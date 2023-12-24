@@ -1,1 +1,1 @@
-# space_y
+I completed a data science project reltated to creating a fictitous competitor of Space X and recreating data analysis related to their rockets to deduce what types and conditinos would be most favorable for our company to recreate based of Space X reports and machine learning practices.
